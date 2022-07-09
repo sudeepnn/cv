@@ -1,0 +1,162 @@
+body{
+    background-color: #b4e9f3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: cursive,arial,sans-serif;
+}
+h1{
+    margin-bottom: 0px;
+    margin-top: 80px;
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+}
+.top{
+    background-color: rgb(82, 179, 143);
+    height: 100px;
+    width: 100%;
+    
+}
+
+p{
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  
+}
+.about
+{
+    font-size: 25px;
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
+.contact{
+    font-size: 25px;
+    position: absolute;
+    right: 110px;
+    top: 50px;
+}
+.cld1{
+    position: absolute;
+    left: 220px;
+    top: 20px;
+}
+.cld2{
+    position: absolute;
+    right: 40px;
+    top: 120px;
+}
+.cld3{
+    position: absolute;
+    left: 20px;
+    top: 140px;
+
+}
+.cld4{
+    position: absolute;
+    left: 280px;
+    top: 180px;
+}
+.mountain{
+    margin-top: 60px;
+    height: 300px;
+    width: 500px;
+
+}
+.next{
+    background-color: rgb(82, 179, 143);
+    height: 100px;
+    width: 100%;
+}
+
+.para{
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 50px;
+}
+.me{
+    float: left;
+    height: 200px;
+    width: 200px;
+   padding: 20px;
+}
+.mailp{
+    height: 20px;
+    width: 20px;
+}
+.my{
+    margin: auto;
+    height: 200px;
+    width: 800px;
+
+}
+.myskills{
+    height: 1600px;
+    width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+}
+.codeimg{
+    margin-top: 120px;
+    margin-right: 20px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+h2{
+    font-size: 50px;
+    line-height: 50px;
+}
+.cyberimg{
+    margin-top: 120px;
+    margin-left: 20px;
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.unity{
+    margin-top: 95px ;
+    margin-right: 20px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.program{
+    margin-left: 20px;
+   margin-top: 130px;
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.aboutme{
+    margin: 80px auto;
+    height: 400px;
+    width: 800px;
+}
+.skilsideheading{
+    font-size: 30px;
+}
+.hr1{
+    border-style: none;
+    border-top: dotted;
+    border-width:5px;
+    border-color: #146fcb;
+}
+.hr2{
+    border-style: none;
+    border-top: dotted;
+    border-width:5px;
+    border-color: #0d58c8;
+    width: 80%;
+}
+.education{
+    font-size: 50px;
+}
+.table{
+    margin: auto;
+    font-size: 30px;
+}

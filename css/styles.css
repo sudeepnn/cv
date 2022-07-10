@@ -160,3 +160,51 @@ h2{
     margin: auto;
     font-size: 30px;
 }
+@media (max-width:1270px)
+{
+    h1{
+        margin-left:70px;
+        margin-bottom: 0px;
+        margin-top: 80px;
+        font-size: 50px;
+        font-family: 'Sacramento', cursive;
+    }
+    
+    .top{
+        width: 1000px;
+    }
+    .cld2{
+        position: absolute;
+        left: 10px;
+        top: 40px;
+    }
+    .cld1{
+        position: absolute;
+        left: 700px;
+        top: 120px;
+    }
+    .cld3{
+        position: absolute;
+        left: 70px;
+        top: 170px;
+    }
+    .cld4
+    {
+    position: absolute;
+    left: 690px;
+    top: 250px;
+    }
+    .about
+    {
+    font-size: 25px;
+    position: absolute;
+    left: 900px;
+    top: 50px;
+    }
+    .contact{
+        font-size: 25px;
+        position: absolute;
+        left: 780px;
+        top: 50px;
+    }
+}

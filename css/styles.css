@@ -57,8 +57,8 @@ p{
 }
 .cld4{
     position: absolute;
-    left: 280px;
-    top: 180px;
+    left: 200px;
+    top: 210px;
 }
 .mountain{
     margin-top: 60px;
@@ -134,7 +134,7 @@ h2{
 }
 .aboutme{
     margin: 80px auto;
-    height: 400px;
+    height: 1400px;
     width: 800px;
 }
 .skilsideheading{
@@ -160,7 +160,7 @@ h2{
     margin: auto;
     font-size: 30px;
 }
-@media (max-width:1270px)
+@media (max-width:1000px)
 {
     h1{
         margin-left:70px;
@@ -171,6 +171,8 @@ h2{
     }
     
     .top{
+        position: fixed;
+        top:  0px;
         width: 1000px;
     }
     .cld2{
@@ -207,4 +209,33 @@ h2{
         left: 780px;
         top: 50px;
     }
+    .next{
+        background-color: rgb(82, 179, 143);
+        height: 100px;
+        width: 1000px;
+    }
+    .middle{
+        width: 800px;
+        margin-left: 70px;
+        padding-top: 60px;
+    }
+    .mountain{
+        margin-top:60px;
+        height: 300px;
+        width: 600px;
+        margin-left: 200px;
+    }
+    hr{
+        width: 1000px;
+    }
+    .hr1{
+        width:800px;
+    }
+    .my{
+        margin-left: 100px;
+    }
+    .myskills{
+        margin-left: 65px;
+    }
 }
+
